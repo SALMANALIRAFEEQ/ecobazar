@@ -1,6 +1,6 @@
 # ecobazar
 EcoBazar - WordPress Multivendor Marketplace  A complete WordPress multivendor marketplace for sustainable fashion. Features vendor management, product verification, secure payments, and eco-friendly e-commerce functionality. Built with Dokan and WooCommerce.
-
+<meta name="google-site-verification" content="e75nKiVpCaXdS9mXPidOWFsY7NULufp6ZW-2iUkqDtg" />
 EcoBazar - Online Thrift Marketplace (WordPress)
 Login Credentials:
 
